@@ -1,0 +1,14 @@
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\bin\Debug\net8.0\Projeto-C-.exe
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\bin\Debug\net8.0\Projeto-C-.deps.json
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\bin\Debug\net8.0\Projeto-C-.runtimeconfig.json
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\bin\Debug\net8.0\Projeto-C-.dll
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\bin\Debug\net8.0\Projeto-C-.pdb
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\Projeto-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\Projeto-C-.AssemblyInfoInputs.cache
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\Projeto-C-.AssemblyInfo.cs
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\Projeto-C-.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\Projeto-C-.dll
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\refint\Projeto-C-.dll
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\Projeto-C-.pdb
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\Projeto-C-.genruntimeconfig.cache
+C:\Users\Aaron Santos\Documents\PROJETO C#\Projeto-C-\obj\Debug\net8.0\ref\Projeto-C-.dll
